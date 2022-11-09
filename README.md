@@ -8,3 +8,8 @@ There are in total 3 pages.
 3-> failure
 
 2 and 3 pages both have contact us info available in the footer.
+
+STEPS:
+Open the app.js and run command node app.js 
+Open the local host 4000
+The project will be running
